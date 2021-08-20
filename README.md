@@ -1,7 +1,7 @@
 Program can solve equation with matrix and vectors parameters.
 
 Avaliable operations:
-1. Addition of two matrix/two vectors/matrix and vector.
+1. Addition of two matrix/two vectors.
 3. Multiplication of two matrix/two vectors/matrix and vector/
 scalar and matrix/scalar and vector.
 
